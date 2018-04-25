@@ -52,7 +52,7 @@
                     <osFamily>any</osFamily>
                     <packages>
                         <package>
-                            <name>elasticsearch-6.0</name>
+                            <name>elasticsearch</name>
                         </package>
                     </packages>
                 </osSpecific>
